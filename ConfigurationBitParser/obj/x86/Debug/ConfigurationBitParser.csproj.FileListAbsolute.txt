@@ -1,0 +1,16 @@
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\obj\x86\Debug\MainWindow.baml
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\obj\x86\Debug\MainWindow.g.cs
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\obj\x86\Debug\App.g.cs
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\obj\x86\Debug\ConfigurationBitParser_MarkupCompile.cache
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\obj\x86\Debug\ConfigurationBitParser.g.resources
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\obj\x86\Debug\ConfigurationBitParser.Properties.Resources.resources
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\bin\Debug\ConfigurationBitParser.exe
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\bin\Debug\ConfigurationBitParser.pdb
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\bin\Debug\HtmlAgilityPack.dll
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\bin\Debug\HtmlAgilityPack.pdb
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\bin\Debug\HtmlAgilityPack.xml
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\obj\x86\Debug\ConfigurationBitParser.exe
+c:\users\dirk\documents\visual studio 2010\Projects\ConfigurationBitParser\ConfigurationBitParser\obj\x86\Debug\ConfigurationBitParser.pdb
