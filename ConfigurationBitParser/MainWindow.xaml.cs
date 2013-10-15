@@ -17,6 +17,7 @@ using System.Windows.Shapes;
 using ConfigurationBitSetting;
 using HtmlAgilityPack;
 using System.IO;
+using System.Diagnostics;
 
 namespace ConfigurationBitParser
 {
@@ -152,7 +153,7 @@ namespace ConfigurationBitParser
         {
             if (selectChip.SelectedItem != null)
             {
-
+                Process.Start(htmlFilePath); 
             }
         }
     }
